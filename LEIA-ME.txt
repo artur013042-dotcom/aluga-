@@ -1,0 +1,17 @@
+ALUGAÊ — SITE DEMONSTRATIVO
+
+Arquivos:
+- index.html: aplicação completa em um único arquivo.
+
+COMO TESTAR:
+1. Abra index.html em um navegador para testar o catálogo, busca, filtros, carrinho e checkout.
+2. Para publicar e incorporar no Google Sites, o arquivo precisa estar hospedado em um endereço HTTPS que permita incorporação. O Google Sites não hospeda diretamente um arquivo HTML completo como site independente.
+3. No Google Sites: Inserir > Incorporar > URL > cole a URL pública do index.html hospedado e ajuste o tamanho do bloco.
+
+LIMITAÇÕES IMPORTANTES:
+- Não usa banco de dados, Firebase ou Google Sheets.
+- Pedidos são apenas montados na tela e podem ser copiados; não são enviados nem armazenados.
+- O painel administrativo é apenas demonstrativo; a senha 12345 não oferece segurança real.
+- O frete é uma estimativa fictícia por regra ilustrativa, não usa rota real. A origem não é exibida.
+- Os preços são valores ilustrativos e precisam ser revisados antes de qualquer uso real.
+- As fotos de produtos usam URLs remotas e precisam de internet para aparecer.
